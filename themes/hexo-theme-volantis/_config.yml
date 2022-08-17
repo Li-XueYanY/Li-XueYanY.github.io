@@ -90,7 +90,7 @@ navbar:
     - name: One #文档
       icon: fa-solid fa-rss
       url: https://twitter.com/home
-    - name: 私货 #帮助
+    - name: friends #帮助
       icon: fa-solid fa-folder-open
       url: https://www.bilibili.com/tgcf?spm_id_from=333.337.0.0
     - name: Three #示例
